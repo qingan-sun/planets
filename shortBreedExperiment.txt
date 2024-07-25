@@ -1,1 +1,2 @@
 "Short corn breed 1 has an average height betwwen 4 and 6 feet.With average yield"
+We found taht these properties make short corn less likely to fall.
